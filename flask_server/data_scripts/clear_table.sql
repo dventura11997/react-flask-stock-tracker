@@ -1,0 +1,1 @@
+TRUNCATE TABLE [dev].[dbo].[users_stocks];
