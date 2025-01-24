@@ -11,5 +11,5 @@ Current features:
 
 # Technical diagram
 
-![alt text](https://github.com/dventura11997/horse-form-sv-app/blob/main/doco/tech_diagram.jpg?raw=true)
+![alt text](https://github.com/dventura11997/react-flask-stock-tracker/raw/refs/heads/main/assets/Vite%20+%20React%20-%20Google%20Chrome%202025-01-24%2016-06-29.mp4)
 
