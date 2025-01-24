@@ -7,7 +7,7 @@ function NavbarAuth() {
             <nav>
                 <a href='/home' className='navlink'>Home</a>
                 <a href='/stock' className='navlink'>Stock</a>
-                <a href='/stock' className='navlink'>My stocks</a>
+                <a href='/my_stocks' className='navlink'>My stocks</a>
                 <SignOut/>
             </nav>
         </div>
