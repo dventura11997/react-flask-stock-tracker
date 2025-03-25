@@ -13,3 +13,14 @@ Current features:
 
 [Click here to watch the demo](https://github.com/dventura11997/react-flask-stock-tracker/raw/refs/heads/main/assets/Vite%20%2B%20React%20-%20Google%20Chrome%202025-01-24%2016-06-29.mp4)
 
+# Local start-up:
+Front-End: 
+- cd peak2trough
+- npm run dev
+
+Back-End:
+- cd flask_server
+- env/scripts/activate
+- python server.py
+
+
