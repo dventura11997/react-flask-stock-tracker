@@ -24,7 +24,7 @@ function Searchbar() {
         <div className='searchbar-container'>
             <GetBackendData backendurl={backendurl} onDataFetched={setStockTickers} />
             <form onSubmit={handleSubmit} className="form-field-with-button">
-                <input type="text" placeholder="Enter a stock ticker..." className="form-field-home" value={inputValue} onChange={(e) => setInputValue(e.target.value)} />
+                <input type="text" placeholder="Enter a stock ticker on the US or AU stock exchange..." className="form-field-home" value={inputValue} onChange={(e) => setInputValue(e.target.value)} />
                 <button type="submit" className='button'>Search</button>
                 {inputValue && (
                     <div className='dropdown-content'>
