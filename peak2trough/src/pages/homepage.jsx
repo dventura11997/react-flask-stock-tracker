@@ -13,6 +13,9 @@ function HomePage() {
                 <div className="major-heading">
                   peak2trough
                 </div>
+                <div className="form-heading home">
+                  Back-end database is currently being migrated from a local server to a cloud database so only functioning intermittently.
+                </div>
                 <Searchbar/>
             </div>
             <div className='right'></div>

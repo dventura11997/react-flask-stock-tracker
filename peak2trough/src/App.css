@@ -280,6 +280,12 @@ body {
   color: var(--coffee);
   /* padding: 10px;                 */
 }
+
+.home {
+  text-align: center;
+
+}
+
 .stock-table {
   font-size: 14pt;
   font-family: var(--main-font);
